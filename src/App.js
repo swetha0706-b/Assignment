@@ -4,6 +4,7 @@ import { Button } from "./component/button";
 import { Input } from "./component/input";
 import { Select, SelectItem } from "./component/select";
 import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
 
 
